@@ -1,5 +1,5 @@
 <p align="center">
-<a href="#"><img width="50%" height="50%" alt = "gif" src="https://github.com/hilal-chanekar/Github-Homepage/blob/main/Coding.gif" height="175px"/>
+<a href="#"><img width="50%" height="50%" alt = "gif" src="https://github.com/hilal-chanekar/hilal-chanekar/blob/main/Coding.gif" height="175px"/>
 </a>
 </p>
 <h1 align="center">Hi 👋, I'm Hilal</h1>
