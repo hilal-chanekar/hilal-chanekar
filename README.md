@@ -41,15 +41,15 @@ A sociable individual who loves to travel and experience new adventures along th
 ### 💼 Experience
 
 - **Research Assistant, Data Science** — Institute for Labour Law and Labour Relations in the European Union, Trier, Germany
-  Feb 2024 – Jul 2024  
+   Feb 2024 – Jul 2024  
   - Scraped and analyzed X (Twitter) data (7.6M tweets, 2.6M users)  
   - Hate speech detection using Google Perspective API & Hugging Face models  
 - ⁠**Data Interpretation Engineer / Data Engineer** — Schlumberger, Abu Dhabi, UAE
-  Jul 2018 – Sep 2021  
+   Jul 2018 – Sep 2021  
   - KPI generation & dashboarding for drilling performance (Power BI)  
   - Real-time drilling analytics, process optimization (~$1B savings, 30% reduction time)  
 - **Data Engineer** — Sultan Trading LLC, Ras al Khaimah
-  Jun 2016 – Jun 2018  
+   Jun 2016 – Jun 2018  
   - Built ETL pipelines, data cleaning, reporting (Python, Tableau)
 
 
