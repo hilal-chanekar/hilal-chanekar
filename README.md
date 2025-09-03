@@ -44,11 +44,11 @@ A sociable individual who loves to travel and experience new adventures along th
   Feb 2024 – Jul 2024  
   - Scraped and analyzed X (Twitter) data (7.6M tweets, 2.6M users)  
   - Hate speech detection using Google Perspective API & Hugging Face models  
-- ⁠**Data Interpretation Engineer / Data Engineer** — Schlumberger, Abu Dhabi, UAE 
+- ⁠**Data Interpretation Engineer / Data Engineer** — Schlumberger, Abu Dhabi, UAE
   Jul 2018 – Sep 2021  
   - KPI generation & dashboarding for drilling performance (Power BI)  
   - Real-time drilling analytics, process optimization (~$1B savings, 30% reduction time)  
-- **Data Engineer** — Sultan Trading LLC, Ras al Khaimah  
+- **Data Engineer** — Sultan Trading LLC, Ras al Khaimah
   Jun 2016 – Jun 2018  
   - Built ETL pipelines, data cleaning, reporting (Python, Tableau)
 
